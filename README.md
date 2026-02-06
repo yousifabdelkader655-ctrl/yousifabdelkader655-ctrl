@@ -1,14 +1,37 @@
 ![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
-<!-- You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
-I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn.
 
+## 👋 Hi, I'm Yousif Abdelkader
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/jayrajroshan/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/roshanjayraj/)](https://www.instagram.com/roshanjayraj/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mail@jayrajroshan1@gmail.com)](mailto:mail@jayrajroshan1@gmail.com)
+I'm a **beginner programmer** 🚀  
+I recently started my journey in programming and I'm passionate about learning new technologies step by step.
 
-## ⚡ Skills:
-- Node.js
-- TypeScript
-- NestJS
-- Ethereum
+Currently, I'm focusing on building a strong foundation and practicing through small projects and exercises.
+
+---
+
+## 🌱 What I'm Learning
+- Programming fundamentals  
+- Problem solving  
+- Basics of web development  
+
+---
+
+## 🛠 Skills (Beginner Level)
+- HTML  
+- CSS  
+- Basics of JavaScript  
+- Git & GitHub  
+
+---
+
+## 🎯 Goals
+- Improve my coding skills every day  
+- Build simple projects  
+- Become confident in programming fundamentals  
+
+---
+
+## 📫 Connect with Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/)
+
