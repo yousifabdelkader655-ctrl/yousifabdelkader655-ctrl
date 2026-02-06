@@ -1,4 +1,3 @@
-![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
 
 ## 👋 Hi, I'm Yousif Abdelkader
 
